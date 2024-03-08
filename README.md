@@ -17,9 +17,18 @@ Abegarage.com, a cutting-edge Garage Management System, leverages the MERN stack
   
 
 ## Screenshots
+##HOME PAGE
 ![home](https://github.com/Saleamlak21/Abegarageexpress-README/assets/140779141/e35627ae-1546-4078-a67a-3996b20752e7)
-![Screenshot 1](![home](https://github.com/Saleamlak21/Abegarageexpress-README/assets/140779141/e35627ae-1546-4078-a67a-3996b20752e7))
-![Screenshot 2](/path/to/screenshot2.png)
+
+##ADMIN PAGE
+![admin](https://github.com/Saleamlak21/Abegarageexpress-README/assets/140779141/52cf7fe3-b3a1-4abb-b463-5d8997057a98)
+
+##CUSTOMER PAGE
+![customers](https://github.com/Saleamlak21/Abegarageexpress-README/assets/140779141/66c87dc5-cef9-4200-a15e-31af8235a45c)
+
+##ORDERS PAGE
+![orders](https://github.com/Saleamlak21/Abegarageexpress-README/assets/140779141/86385678-f8db-4468-895d-242029fa7af7)
+
 
 ## Contributing
 [Provide guidelines for contributing to the project, such as how to report issues or submit pull requests.]
