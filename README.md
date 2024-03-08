@@ -31,15 +31,10 @@ Abegarage.com, a cutting-edge Garage Management System, leverages the MERN stack
 ![orders](https://github.com/Saleamlak21/Abegarageexpress-README/assets/140779141/86385678-f8db-4468-895d-242029fa7af7)
 
 
-# Contributing
-[Provide guidelines for contributing to the project, such as how to report issues or submit pull requests.]
-
 ## License
-[Specify the license under which the project is distributed. For example, MIT License, Apache License 2.0, etc.]
+This project is under  MIT License!
 
-## Acknowledgements
-[Optional: Acknowledge any individuals or resources that helped inspire or support the project.]
 
 ## Contact
-[Provide contact information for the project maintainer or team, such as an email address or link to a contact form.]
+https://www.linkedin.com/in/saleamlakendrias/
 
