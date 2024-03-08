@@ -17,7 +17,8 @@ Abegarage.com, a cutting-edge Garage Management System, leverages the MERN stack
   
 
 ## Screenshots
-[Include screenshots or GIFs showcasing the project's user interface or functionality.]
+![Screenshot 1]()
+![Screenshot 2](/path/to/screenshot2.png)
 
 ## Contributing
 [Provide guidelines for contributing to the project, such as how to report issues or submit pull requests.]
