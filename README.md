@@ -6,10 +6,7 @@ Abegarage.com, a cutting-edge Garage Management System, leverages the MERN stack
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -17,12 +14,6 @@ Abegarage.com, a cutting-edge Garage Management System, leverages the MERN stack
 
 ## Technologies Used
 [List the technologies, frameworks, and libraries used in the project.]
-
-## Installation
-[Provide instructions for installing the project locally or accessing it from a live deployment.]
-
-## Usage
-[Explain how to use the project. Include any necessary setup steps or configuration options.]
 
 ## Screenshots
 [Include screenshots or GIFs showcasing the project's user interface or functionality.]
